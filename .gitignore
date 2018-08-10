@@ -1,4 +1,7 @@
-/web/bundles/
+/web/bundles/framework/images/
+/web/bundles/framework/css/body.css
+/web/bundles/framework/css/exception.css
+/web/bundles/framework/css/structure.css
 /app/bootstrap.php.cache
 /app/cache/*
 /app/config/parameters.yml
